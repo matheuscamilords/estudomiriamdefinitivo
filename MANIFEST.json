@@ -1,0 +1,36 @@
+{
+  "project": "Miriam Estudos — cargo 325",
+  "version": "0.1.0-partial",
+  "date": "2026-10-19",
+  "status": "partial",
+  "complete": false,
+  "completed": [
+    "Extração dos seis PDFs e conferência dos trechos pertinentes ao cargo",
+    "Inventário dos 243 subtópicos do verticalizado com páginas e prioridades",
+    "Planejamento integral de 47 sessões e 39 módulos",
+    "Registro do conflito normativo e dos limites da cobertura jurídica",
+    "Guia editorial provisório com limites da pesquisa da banca",
+    "Aula PT01, oito questões autorais comentadas, seis flashcards",
+    "Aplicação estática para primeira sessão, calendário, edital, progresso e revisões"
+  ],
+  "availableSessionIds": ["S01"],
+  "remainingSessionCount": 46,
+  "availableQuestionCount": 8,
+  "availableFlashcardCount": 6,
+  "availableSimulationCount": 0,
+  "pending": [
+    "Leitura substantiva integral dos documentos, além dos trechos do cargo já conferidos",
+    "Amostra validada de cadernos IBGP e gabaritos definitivos, com anulações",
+    "Textos municipais oficiais consolidados e regulamentos",
+    "Inventários completos de capítulos/dispositivos das leis amplamente citadas",
+    "Esclarecimento do alcance do marco temporal normativo",
+    "Todas as demais aulas, questões, flashcards e três bancos de simulados",
+    "Pesquisa e consolidação de atualidades verificadas",
+    "Revisão pedagógica e jurídica independente",
+    "Motor e banco de simulados completos cronometrados",
+    "React/TypeScript/Vite, se mantida a preferência tecnológica na versão final",
+    "Testes reais de navegador, acessibilidade, responsividade e GitHub Pages"
+  ],
+  "next": "Concluir base documental e amostra da banca; produzir LG01 com referências verificadas; preservar S01/PT01 e continuar o calendário. Não liberar legislação com versão presumida.",
+  "acceptanceGate": "Fechada: o curso completo não está entregue."
+}

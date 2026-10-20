@@ -1,0 +1,38 @@
+[
+  {
+    "filename": "ANEXO I(1).pdf",
+    "sha256": "b1f24f173f76e9e28d6b9d10ea896d73688ba4005630b058de027f5ac129b0ec",
+    "kind": "oficial_fornecido",
+    "reviewScope": "trechos relevantes e extração; não declarar leitura substantiva integral"
+  },
+  {
+    "filename": "Edital_Verticalizado_Miriam_Agente_Fiscal_Tributos_SJDR_2026(2).pdf",
+    "sha256": "45a78960c8f52e52a0a33aa705322833525027963381db9df6a6721f641cb9cf",
+    "kind": "auxiliar",
+    "reviewScope": "trechos relevantes e extração; não declarar leitura substantiva integral"
+  },
+  {
+    "filename": "RETIFICAÇÃO 1(1).pdf",
+    "sha256": "ea99dc7e1c89cdda65edc004c66144c7c46845c0f26a5b35379ab0f502548c7e",
+    "kind": "oficial_fornecido",
+    "reviewScope": "trechos relevantes e extração; não declarar leitura substantiva integral"
+  },
+  {
+    "filename": "ANEXO III(1).pdf",
+    "sha256": "987b03cdacc30b5373d231fb8f4d652a229765e4a741c9bb57442ccb6eaab3fa",
+    "kind": "oficial_fornecido",
+    "reviewScope": "trechos relevantes e extração; não declarar leitura substantiva integral"
+  },
+  {
+    "filename": "04 - ANEXO IV - CONTEUDO PROGRAM_Ret 1(2).pdf",
+    "sha256": "2bbe583f380657a2f445019f6cd4148e1d03f1bbcbcbe1e4c8c1b28395b49723",
+    "kind": "oficial_fornecido",
+    "reviewScope": "trechos relevantes e extração; não declarar leitura substantiva integral"
+  },
+  {
+    "filename": "00 - EDITAL CONCURSO SJDR_ADM_Retif 1(2).pdf",
+    "sha256": "ccfd9aa97259fad30708d12fe0a0a2ca325671a144d3c22036a2fc7678f42bf1",
+    "kind": "oficial_fornecido",
+    "reviewScope": "trechos relevantes e extração; não declarar leitura substantiva integral"
+  }
+]

@@ -1,0 +1,687 @@
+[
+  {
+    "id": "PT01",
+    "title": "Leitura, inferência e sentido contextual",
+    "subject": "PT",
+    "topicIds": [
+      "PT-001",
+      "PT-002",
+      "PT-003",
+      "PT-004",
+      "PT-005"
+    ],
+    "objective": "Distinguir informação expressa, inferência autorizada e extrapolação.",
+    "productionOutline": "Tema e tese; finalidade; gêneros sociais e sequências tipológicas; sentido contextual, polissemia, denotação e conotação; justificar a resposta com trecho do texto.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "PT02",
+    "title": "Coesão, coerência e recursos expressivos",
+    "subject": "PT",
+    "topicIds": [
+      "PT-006",
+      "PT-007",
+      "PT-008",
+      "PT-009",
+      "PT-010",
+      "PT-011",
+      "PT-036"
+    ],
+    "objective": "Reconstruir referências e relações de sentido sem confundir variedade linguística com erro.",
+    "productionOutline": "Operadores sequenciais; anáfora e catáfora; coerência; elipse, zeugma, pleonasmo, inversão; metáfora, metonímia, ironia, antítese; adequação linguística.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "PT03",
+    "title": "Classes de palavras e formação",
+    "subject": "PT",
+    "topicIds": [
+      "PT-012",
+      "PT-013",
+      "PT-014",
+      "PT-015",
+      "PT-016",
+      "PT-017"
+    ],
+    "objective": "Identificar classes pela função e explicar flexões e processos de formação.",
+    "productionOutline": "Dez classes; classes variáveis e invariáveis; substantivação; flexões; composição, derivação e exemplos contrastivos.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "PT04",
+    "title": "Verbos, oração e período",
+    "subject": "PT",
+    "topicIds": [
+      "PT-018",
+      "PT-019",
+      "PT-020",
+      "PT-021",
+      "PT-022",
+      "PT-029",
+      "PT-030",
+      "PT-031",
+      "PT-032"
+    ],
+    "objective": "Analisar sujeito, complementos e relações entre orações para interpretar o período.",
+    "productionOutline": "Tempos, modos e vozes; correlação; sujeito e predicado; objetos e complementos; coordenação e subordinação; valor semântico dos conectivos.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "PT05",
+    "title": "Concordância, regência e crase",
+    "subject": "PT",
+    "topicIds": [
+      "PT-023",
+      "PT-024",
+      "PT-025",
+      "PT-026",
+      "PT-027",
+      "PT-028"
+    ],
+    "objective": "Aplicar relações sintáticas em reescritas preservando o sentido.",
+    "productionOutline": "Concordância nominal e verbal; casos especiais; regência verbal e nominal; teste da crase; locuções; próclise, ênclise e mesóclise.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "PT06",
+    "title": "Ortografia, acentuação e pontuação",
+    "subject": "PT",
+    "topicIds": [
+      "PT-033",
+      "PT-034",
+      "PT-035"
+    ],
+    "objective": "Revisar escrita e explicar o efeito da pontuação sobre a estrutura.",
+    "productionOutline": "Regras gerais e hiatos; acentos diferenciais; grafias e porquês; vírgula e termos deslocados; restrição e explicação; reescrita integrada.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "RL01",
+    "title": "Proposições e conectivos",
+    "subject": "RL",
+    "topicIds": [
+      "RL-001",
+      "RL-002",
+      "RL-003",
+      "RL-004"
+    ],
+    "objective": "Montar tabelas-verdade e negar proposições compostas.",
+    "productionOutline": "Proposição versus frase; negação; conjunção, disjunção, condicional e bicondicional; equivalências; implicação; contraexemplo.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "RL02",
+    "title": "Argumentação e verdades e mentiras",
+    "subject": "RL",
+    "topicIds": [
+      "RL-005",
+      "RL-006",
+      "RL-007",
+      "RL-035",
+      "RL-041"
+    ],
+    "objective": "Testar validade sem confundir verdade das premissas com forma do argumento.",
+    "productionOutline": "Tabelas de possibilidades; argumento válido; modus ponens e tollens; falácias de afirmar consequente/negar antecedente; problemas de declarações.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "RL03",
+    "title": "Conjuntos e operações",
+    "subject": "RL",
+    "topicIds": [
+      "RL-008",
+      "RL-009",
+      "RL-010",
+      "RL-011",
+      "RL-012",
+      "RL-013",
+      "RL-014",
+      "RL-015",
+      "RL-016",
+      "RL-017",
+      "RL-018",
+      "RL-019",
+      "RL-020",
+      "RL-021"
+    ],
+    "objective": "Representar conjuntos e calcular uniões sem dupla contagem.",
+    "productionOutline": "Pertinência versus inclusão; igualdade; vazio, unitário, universo; conjunto das partes; finitos e infinitos; diagramas; união, interseção, diferença e complemento.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "RL04",
+    "title": "Operações, decimais e divisibilidade",
+    "subject": "RL",
+    "topicIds": [
+      "RL-022",
+      "RL-023",
+      "RL-024",
+      "RL-025",
+      "RL-026",
+      "RL-027",
+      "RL-028",
+      "RL-029",
+      "RL-030",
+      "RL-031",
+      "RL-032",
+      "RL-033",
+      "RL-034"
+    ],
+    "objective": "Resolver cálculos e escolher entre MDC e MMC em problemas.",
+    "productionOutline": "Ordem das operações; potências e raízes; decimais; módulo; propriedades dos naturais; fatoração prima; múltiplos e divisores; MDC e MMC com resolução passo a passo.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "RL05",
+    "title": "Sequências, contagem e probabilidade",
+    "subject": "RL",
+    "topicIds": [
+      "RL-036",
+      "RL-037",
+      "RL-038",
+      "RL-039",
+      "RL-040"
+    ],
+    "objective": "Justificar padrões e calcular probabilidades em espaços equiprováveis.",
+    "productionOutline": "Padrões numéricos, figurais e verbais; princípio multiplicativo; permutação, arranjo e combinação; eventos, espaço amostral e complemento.",
+    "status": "a_produzir",
+    "questionTarget": 8
+  },
+  {
+    "id": "IF01",
+    "title": "Hardware, software e arquitetura",
+    "subject": "IF",
+    "topicIds": [
+      "IF-057",
+      "IF-058",
+      "IF-059",
+      "IF-060",
+      "IF-061",
+      "IF-062",
+      "IF-063"
+    ],
+    "objective": "Relacionar componentes e funções sem confundir memória com armazenamento.",
+    "productionOutline": "CPU, RAM, armazenamento, periféricos, sistema operacional, aplicativos e organização do computador.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "IF02",
+    "title": "Windows 10 e arquivos",
+    "subject": "IF",
+    "topicIds": [
+      "IF-001",
+      "IF-002",
+      "IF-003",
+      "IF-004",
+      "IF-005",
+      "IF-006",
+      "IF-007",
+      "IF-008",
+      "IF-009",
+      "IF-010",
+      "IF-011",
+      "IF-012",
+      "IF-013",
+      "IF-014",
+      "IF-015",
+      "IF-016",
+      "IF-017"
+    ],
+    "objective": "Executar operações de arquivos e prever seus efeitos.",
+    "productionOutline": "Janelas, menus, barra, área de trabalho; Explorador; caminhos, seleção, copiar, mover, excluir e recuperar; compartilhamento; área de transferência; configurações de tela, fonte e impressão.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "IF03",
+    "title": "Internet, intranet e redes",
+    "subject": "IF",
+    "topicIds": [
+      "IF-018",
+      "IF-019",
+      "IF-020",
+      "IF-021",
+      "IF-022",
+      "IF-053",
+      "IF-054",
+      "IF-055",
+      "IF-056"
+    ],
+    "objective": "Distinguir rede, navegador e serviço, relacionando protocolos a funções.",
+    "productionOutline": "Pesquisa, URLs e navegadores; Internet versus intranet; HTTP/HTTPS, DNS, correio e protocolos; cliente/servidor; procedimentos seguros de acesso.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "IF04",
+    "title": "Word, PowerPoint, Teams e Outlook",
+    "subject": "IF",
+    "topicIds": [
+      "IF-027",
+      "IF-029",
+      "IF-030",
+      "IF-031",
+      "IF-032",
+      "IF-033",
+      "IF-034",
+      "IF-035",
+      "IF-036"
+    ],
+    "objective": "Escolher ferramentas para produzir, organizar e compartilhar documentos.",
+    "productionOutline": "Word: edição, formatação e revisão; PowerPoint: slides e apresentação; Teams: colaboração; Outlook: mensagens, calendário e organização; integração e permissões.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "IF05",
+    "title": "Excel e automação no Microsoft 365",
+    "subject": "IF",
+    "topicIds": [
+      "IF-028",
+      "IF-032",
+      "IF-033",
+      "IF-037",
+      "IF-038"
+    ],
+    "objective": "Interpretar fórmulas e referências sem depender de decorar a posição de botões.",
+    "productionOutline": "Células, referências relativas/absolutas/mistas, operadores, funções básicas e condicionais, filtros e ordenação; recursos inteligentes e automáticos; exemplos de fórmulas conferidos em documentação oficial.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "IF06",
+    "title": "Segurança, backup, nuvem e IA",
+    "subject": "IF",
+    "topicIds": [
+      "IF-023",
+      "IF-024",
+      "IF-025",
+      "IF-026",
+      "IF-039",
+      "IF-040",
+      "IF-041",
+      "IF-042",
+      "IF-043",
+      "IF-044",
+      "IF-045",
+      "IF-046",
+      "IF-047",
+      "IF-048",
+      "IF-049",
+      "IF-050",
+      "IF-051",
+      "IF-052"
+    ],
+    "objective": "Reconhecer incidentes e escolher medidas de prevenção e recuperação.",
+    "productionOutline": "Malware, golpes e phishing; senhas e proteção de dados; backup completo/incremental/diferencial; contingência; armazenamento; nuvem; ética; assistentes, automação e verificação de saídas de IA.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CG01",
+    "title": "São João del-Rei e Minas: território e história",
+    "subject": "CG",
+    "topicIds": [
+      "CG-008",
+      "CG-009",
+      "CG-010",
+      "CG-018",
+      "CG-021",
+      "CG-033",
+      "CG-038",
+      "CG-039"
+    ],
+    "objective": "Localizar acontecimentos e símbolos em seu contexto histórico e geográfico.",
+    "productionOutline": "Panorama local/estadual articulado a Brasil e mundo; aspectos físicos e históricos; símbolos municipais; georreferenciamento; usar fontes oficiais e distinguir fato de interpretação.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CG02",
+    "title": "Economia, política e indicadores",
+    "subject": "CG",
+    "topicIds": [
+      "CG-001",
+      "CG-002",
+      "CG-003",
+      "CG-004",
+      "CG-011",
+      "CG-012",
+      "CG-013",
+      "CG-014",
+      "CG-019",
+      "CG-022",
+      "CG-036"
+    ],
+    "objective": "Ler indicadores com data, unidade e abrangência e contextualizar fatos dos cinco anos.",
+    "productionOutline": "Município, Minas, Brasil e mundo; fatos políticos, sociais e econômicos; estatísticas e suas limitações; linha do tempo documentada; não prever notícias futuras.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CG03",
+    "title": "Cidadania, cultura e patrimônio",
+    "subject": "CG",
+    "topicIds": [
+      "CG-005",
+      "CG-006",
+      "CG-007",
+      "CG-015",
+      "CG-016",
+      "CG-017",
+      "CG-027",
+      "CG-029",
+      "CG-031",
+      "CG-032",
+      "CG-037"
+    ],
+    "objective": "Relacionar movimentos sociais e culturais a contextos e reconhecer símbolos.",
+    "productionOutline": "Movimentos nas quatro escalas; símbolos nacionais/estaduais; cidadania; religião, esportes, cultura e turismo; distinguir patrimônio material e imaterial com fontes.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CG04",
+    "title": "Ambiente, saúde, educação e qualidade de vida",
+    "subject": "CG",
+    "topicIds": [
+      "CG-020",
+      "CG-023",
+      "CG-026",
+      "CG-028",
+      "CG-030",
+      "CG-040"
+    ],
+    "objective": "Conectar temas socioambientais a políticas e acontecimentos verificados.",
+    "productionOutline": "Ecologia, meio ambiente, saúde, educação, qualidade de vida e realidades socioambientais nas quatro escalas; leitura crítica de notícias e dados.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CG05",
+    "title": "Justiça, segurança, ciência e notícias locais",
+    "subject": "CG",
+    "topicIds": [
+      "CG-024",
+      "CG-025",
+      "CG-034",
+      "CG-035",
+      "CG-041"
+    ],
+    "objective": "Diferenciar anúncio, fato ocorrido e resultado confirmado.",
+    "productionOutline": "Justiça e segurança pública; ciência e tecnologia; notícias da Prefeitura; linha do tempo dos últimos cinco anos; data de corte explícita e atualização editorial antes da prova.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "LG01",
+    "title": "Constituição: fundamentos e art. 5º",
+    "subject": "LG",
+    "topicIds": [
+      "LG-005",
+      "LG-006"
+    ],
+    "objective": "Distinguir fundamentos, objetivos e direitos fundamentais em situações práticas.",
+    "productionOutline": "Título I; art. 5º integral; direitos, garantias, remédios e restrições; leitura guiada de incisos com fonte oficial e marca temporal.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "LG02",
+    "title": "Direitos sociais e nacionalidade",
+    "subject": "LG",
+    "topicIds": [
+      "LG-007",
+      "LG-008",
+      "LG-009",
+      "LG-010",
+      "LG-011",
+      "LG-012",
+      "LG-013",
+      "LG-014"
+    ],
+    "objective": "Relacionar os arts. 6º a 13 aos sujeitos e hipóteses correspondentes.",
+    "productionOutline": "Direitos sociais e dos trabalhadores; sindicato e greve; participação; representação; nacionalidade, língua e símbolos; exceções verificadas.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "LG03",
+    "title": "Municípios, Administração e Lei Orgânica",
+    "subject": "LG",
+    "topicIds": [
+      "LG-002",
+      "LG-015",
+      "LG-016",
+      "LG-017",
+      "LG-018",
+      "LG-019",
+      "LG-020",
+      "LG-021"
+    ],
+    "objective": "Separar competências municipais, fiscalização e regras dos servidores.",
+    "productionOutline": "Arts. 29, 29-A, 30, 31, 37, 38, 39; mapa integral da Lei Orgânica com leitura prioritária dos capítulos relacionados; capítulos restantes entram no bloco de abrangência do dia 34.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "LG04",
+    "title": "Estatuto municipal: ingresso e vida funcional",
+    "subject": "LG",
+    "topicIds": [
+      "LG-001"
+    ],
+    "objective": "Diferenciar provimento, posse, exercício e evolução funcional conforme o texto municipal.",
+    "productionOutline": "Lei 5.038/2014: identificar texto consolidado oficial; mapear todo o estatuto; primeira parte com ingresso e vida funcional. Não usar prazos federais como substitutos.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "LG05",
+    "title": "Estatuto municipal: direitos, deveres e disciplina",
+    "subject": "LG",
+    "topicIds": [
+      "LG-001"
+    ],
+    "objective": "Resolver situações de direitos, proibições e responsabilidade com base municipal.",
+    "productionOutline": "Segunda parte do estatuto; direitos e vantagens, licenças, deveres, proibições, penalidades e procedimento disciplinar; referências precisas após conferência do texto.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "LG06",
+    "title": "Lei Brasileira de Inclusão",
+    "subject": "LG",
+    "topicIds": [
+      "LG-003",
+      "LG-004"
+    ],
+    "objective": "Reconhecer barreiras, acessibilidade e direitos sem restringir a lei a definições.",
+    "productionOutline": "Mapa integral da Lei 13.146/2015; conceitos, igualdade, atendimento, direitos, trabalho, acessibilidade, justiça e disposições penais; distinções e exemplos.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "LG07",
+    "title": "Licitações e contratos",
+    "subject": "LG",
+    "topicIds": [
+      "LG-022",
+      "LG-023"
+    ],
+    "objective": "Percorrer planejamento, seleção, contratação e execução e distinguir hipóteses.",
+    "productionOutline": "Mapa integral da Lei 14.133/2021; princípios, agentes, fases, modalidades, critérios, contratação direta, contratos, fiscalização, sanções e controle; noções interdisciplinares de CE.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "LG08",
+    "title": "Acesso à informação",
+    "subject": "LG",
+    "topicIds": [
+      "LG-024",
+      "LG-025"
+    ],
+    "objective": "Distinguir transparência ativa e passiva e aplicar o fluxo de acesso e recursos.",
+    "productionOutline": "Lei 12.527/2011 e Decreto MG 45.969/2012 integralmente mapeados; sujeitos, pedidos, prazos, sigilo, dados pessoais, recursos e responsabilidades; separar regra federal e estadual.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE01",
+    "title": "Tributos e Constituição: fundamentos",
+    "subject": "CE",
+    "topicIds": [
+      "CE-008",
+      "CE-013",
+      "CE-014",
+      "CE-015",
+      "CE-016",
+      "CE-017",
+      "CE-028",
+      "CE-032"
+    ],
+    "objective": "Distinguir espécies, competências e limitações constitucionais.",
+    "productionOutline": "Tributo; imposto, taxa e contribuição; competência municipal; princípios e imunidades; mapa da Constituição integral mantido em escopo, com abordagem tributária inicial.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE02",
+    "title": "CTN: obrigação, fato gerador e responsabilidade",
+    "subject": "CE",
+    "topicIds": [
+      "CE-017",
+      "CE-018",
+      "CE-021",
+      "CE-030"
+    ],
+    "objective": "Identificar fato gerador, sujeitos e responsáveis em situações concretas.",
+    "productionOutline": "Obrigação principal/acessória; fato gerador; sujeito ativo/passivo; solidariedade, capacidade, domicílio e responsabilidade; mapa do CTN sem limitar a referência oficial ao roteiro.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE03",
+    "title": "CTN: lançamento e crédito",
+    "subject": "CE",
+    "topicIds": [
+      "CE-019",
+      "CE-020",
+      "CE-032",
+      "CE-033"
+    ],
+    "objective": "Comparar constituição, suspensão, extinção e exclusão do crédito.",
+    "productionOutline": "Modalidades de lançamento; hipóteses de suspensão/extinção/exclusão; decadência e prescrição; isenção versus imunidade; fontes e marco normativo explicitados.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE04",
+    "title": "IPTU e cadastro imobiliário municipal",
+    "subject": "CE",
+    "topicIds": [
+      "CE-022",
+      "CE-024",
+      "CE-029",
+      "CE-031"
+    ],
+    "objective": "Aplicar critérios nacionais e regras locais verificados ao cadastro e ao IPTU.",
+    "productionOutline": "Texto oficial municipal: incidência, sujeitos, base, cadastro, lançamento, benefícios e obrigações; não inventar alíquotas ou prazos. Capítulos gerais do CTM serão retomados no dia 34.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE05",
+    "title": "ISSQN municipal",
+    "subject": "CE",
+    "topicIds": [
+      "CE-022",
+      "CE-023"
+    ],
+    "objective": "Resolver hipóteses de incidência, local e responsabilidade com fonte normativa.",
+    "productionOutline": "CTM e regulamentos aplicáveis; lei complementar nacional pertinente conferida; lista, contribuinte, retenção, estabelecimento, base e benefícios; separar regra geral e exceções.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE06",
+    "title": "ITBI, taxas e contribuições municipais",
+    "subject": "CE",
+    "topicIds": [
+      "CE-014",
+      "CE-015",
+      "CE-022",
+      "CE-025",
+      "CE-026",
+      "CE-027"
+    ],
+    "objective": "Distinguir bases de incidência e limites das espécies locais.",
+    "productionOutline": "ITBI, taxas, contribuição de melhoria e iluminação pública; legislação municipal oficial e normas constitucionais/nacionais; confrontar casos de incidência e não incidência.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE07",
+    "title": "Finanças municipais, receita e despesa",
+    "subject": "CE",
+    "topicIds": [
+      "CE-005",
+      "CE-006",
+      "CE-009",
+      "CE-010",
+      "CE-011",
+      "CE-012"
+    ],
+    "objective": "Diferenciar receita tributária, preço público e estágios orçamentários.",
+    "productionOutline": "Atividade financeira, rendas, receitas e preços; previsão, lançamento quando aplicável, arrecadação e recolhimento; empenho, liquidação e pagamento; exercícios de sequência e distinção.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE08",
+    "title": "Contabilidade Pública e NBC TSP",
+    "subject": "CE",
+    "topicIds": [
+      "CE-001",
+      "CE-002",
+      "CE-003",
+      "CE-004",
+      "CE-005",
+      "CE-006",
+      "CE-007"
+    ],
+    "objective": "Relacionar patrimônio, finalidade e usuários da informação contábil pública.",
+    "productionOutline": "Conceito, objeto, finalidade e campo; NBC TSP Estrutura Conceitual em sua versão verificada; objetivos, usuários, características qualitativas, elementos, reconhecimento, mensuração e apresentação.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  },
+  {
+    "id": "CE09",
+    "title": "Administração tributária, ética e integração",
+    "subject": "CE",
+    "topicIds": [
+      "CE-021",
+      "CE-022",
+      "CE-034",
+      "CE-035",
+      "CE-036",
+      "CE-037"
+    ],
+    "objective": "Resolver situações de fiscalização articulando ética, CTN e regras municipais.",
+    "productionOutline": "Fiscalização, dívida ativa e certidões; ética profissional; Lei Orgânica; noções de licitações e contratos; conferência dos capítulos do CTN e CTM ainda não detalhados.",
+    "status": "a_produzir",
+    "questionTarget": 6
+  }
+]

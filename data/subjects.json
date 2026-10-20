@@ -1,0 +1,38 @@
+[
+  {
+    "id": "PT",
+    "name": "Língua Portuguesa",
+    "questions": 5,
+    "weight": 4
+  },
+  {
+    "id": "RL",
+    "name": "Raciocínio Lógico",
+    "questions": 5,
+    "weight": 3
+  },
+  {
+    "id": "IF",
+    "name": "Noções de Informática",
+    "questions": 5,
+    "weight": 3
+  },
+  {
+    "id": "CG",
+    "name": "Conhecimentos Gerais",
+    "questions": 5,
+    "weight": 3
+  },
+  {
+    "id": "LG",
+    "name": "Legislação",
+    "questions": 5,
+    "weight": 3
+  },
+  {
+    "id": "CE",
+    "name": "Conhecimentos Específicos",
+    "questions": 5,
+    "weight": 4
+  }
+]

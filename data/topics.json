@@ -1,0 +1,2432 @@
+[
+  {
+    "id": "PT-001",
+    "subject": "PT",
+    "title": "Compreensão de textos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-002",
+    "subject": "PT",
+    "title": "Interpretação de textos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-003",
+    "subject": "PT",
+    "title": "Gêneros de texto",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-004",
+    "subject": "PT",
+    "title": "Tipos de texto",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-005",
+    "subject": "PT",
+    "title": "Significação das palavras",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-006",
+    "subject": "PT",
+    "title": "Articulação textual: operadores sequenciais",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-007",
+    "subject": "PT",
+    "title": "Articulação textual: expressões referenciais",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-008",
+    "subject": "PT",
+    "title": "Coesão textual",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-009",
+    "subject": "PT",
+    "title": "Coerência textual",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-010",
+    "subject": "PT",
+    "title": "Figuras de sintaxe",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-011",
+    "subject": "PT",
+    "title": "Figuras de linguagem",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-012",
+    "subject": "PT",
+    "title": "Identificação das classes de palavras",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-013",
+    "subject": "PT",
+    "title": "Definição das classes de palavras",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-014",
+    "subject": "PT",
+    "title": "Classificação das classes de palavras",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-015",
+    "subject": "PT",
+    "title": "Flexão das classes de palavras",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-016",
+    "subject": "PT",
+    "title": "Emprego das classes de palavras",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-017",
+    "subject": "PT",
+    "title": "Formação de palavras",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-018",
+    "subject": "PT",
+    "title": "Verbos: flexão",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-019",
+    "subject": "PT",
+    "title": "Verbos: conjugação",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-020",
+    "subject": "PT",
+    "title": "Verbos: vozes verbais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-021",
+    "subject": "PT",
+    "title": "Verbos: correlação entre tempos verbais",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-022",
+    "subject": "PT",
+    "title": "Verbos: correlação entre modos verbais",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 3,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-023",
+    "subject": "PT",
+    "title": "Concordância verbal",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-024",
+    "subject": "PT",
+    "title": "Concordância nominal",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-025",
+    "subject": "PT",
+    "title": "Regência verbal",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-026",
+    "subject": "PT",
+    "title": "Regência nominal",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-027",
+    "subject": "PT",
+    "title": "Crase",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-028",
+    "subject": "PT",
+    "title": "Colocação pronominal",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-029",
+    "subject": "PT",
+    "title": "Estrutura da oração: aspectos sintáticos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-030",
+    "subject": "PT",
+    "title": "Estrutura da oração: aspectos semânticos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-031",
+    "subject": "PT",
+    "title": "Estrutura do período: aspectos sintáticos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-032",
+    "subject": "PT",
+    "title": "Estrutura do período: aspectos semânticos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-033",
+    "subject": "PT",
+    "title": "Acentuação gráfica",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-034",
+    "subject": "PT",
+    "title": "Ortografia",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-035",
+    "subject": "PT",
+    "title": "Pontuação",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "PT-036",
+    "subject": "PT",
+    "title": "Variação linguística",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 4,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-001",
+    "subject": "RL",
+    "title": "Proposições lógicas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-002",
+    "subject": "RL",
+    "title": "Conectivos lógicos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-003",
+    "subject": "RL",
+    "title": "Equivalência lógica",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-004",
+    "subject": "RL",
+    "title": "Implicação lógica",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-005",
+    "subject": "RL",
+    "title": "Argumentos válidos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-006",
+    "subject": "RL",
+    "title": "Problemas com tabelas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-007",
+    "subject": "RL",
+    "title": "Problemas de argumentação",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-008",
+    "subject": "RL",
+    "title": "Notação dos conjuntos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-009",
+    "subject": "RL",
+    "title": "Representação dos conjuntos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-010",
+    "subject": "RL",
+    "title": "Elementos de um conjunto e relação de pertinência",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-011",
+    "subject": "RL",
+    "title": "Igualdade de conjuntos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-012",
+    "subject": "RL",
+    "title": "Relação de inclusão",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-013",
+    "subject": "RL",
+    "title": "Subconjuntos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-014",
+    "subject": "RL",
+    "title": "Conjunto unitário",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-015",
+    "subject": "RL",
+    "title": "Conjunto vazio",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-016",
+    "subject": "RL",
+    "title": "Conjunto das partes",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-017",
+    "subject": "RL",
+    "title": "Formas de representação dos conjuntos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-018",
+    "subject": "RL",
+    "title": "Conjuntos finitos e infinitos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-019",
+    "subject": "RL",
+    "title": "Conjunto universo",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-020",
+    "subject": "RL",
+    "title": "Operações com conjuntos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-021",
+    "subject": "RL",
+    "title": "União de conjuntos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 5,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-022",
+    "subject": "RL",
+    "title": "Operação de adição",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-023",
+    "subject": "RL",
+    "title": "Operação de subtração",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-024",
+    "subject": "RL",
+    "title": "Operação de multiplicação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-025",
+    "subject": "RL",
+    "title": "Operação de divisão",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-026",
+    "subject": "RL",
+    "title": "Potenciação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-027",
+    "subject": "RL",
+    "title": "Radiciação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-028",
+    "subject": "RL",
+    "title": "Números decimais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-029",
+    "subject": "RL",
+    "title": "Valor absoluto",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-030",
+    "subject": "RL",
+    "title": "Propriedades do conjunto dos números naturais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-031",
+    "subject": "RL",
+    "title": "Decomposição de naturais em fatores primos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-032",
+    "subject": "RL",
+    "title": "Múltiplos e divisores",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-033",
+    "subject": "RL",
+    "title": "Máximo divisor comum (MDC)",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-034",
+    "subject": "RL",
+    "title": "Mínimo múltiplo comum (MMC)",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-035",
+    "subject": "RL",
+    "title": "Problemas de verdades e mentiras",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-036",
+    "subject": "RL",
+    "title": "Sequências numéricas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-037",
+    "subject": "RL",
+    "title": "Sequências com figuras",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-038",
+    "subject": "RL",
+    "title": "Sequências de palavras",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-039",
+    "subject": "RL",
+    "title": "Análise combinatória",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-040",
+    "subject": "RL",
+    "title": "Probabilidade",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "RL-041",
+    "subject": "RL",
+    "title": "Problemas envolvendo raciocínio lógico",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 6,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-001",
+    "subject": "IF",
+    "title": "Windows 10: conceitos básicos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-002",
+    "subject": "IF",
+    "title": "Uso de janelas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-003",
+    "subject": "IF",
+    "title": "Uso de menus",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-004",
+    "subject": "IF",
+    "title": "Barra de tarefas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-005",
+    "subject": "IF",
+    "title": "Área de trabalho",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-006",
+    "subject": "IF",
+    "title": "Localização de arquivos e pastas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-007",
+    "subject": "IF",
+    "title": "Criação de arquivos e pastas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-008",
+    "subject": "IF",
+    "title": "Cópia de arquivos e pastas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-009",
+    "subject": "IF",
+    "title": "Movimentação de arquivos e pastas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-010",
+    "subject": "IF",
+    "title": "Exclusão de arquivos e pastas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-011",
+    "subject": "IF",
+    "title": "Compartilhamento de arquivos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-012",
+    "subject": "IF",
+    "title": "Área de transferência",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-013",
+    "subject": "IF",
+    "title": "Configuração de resolução de tela",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-014",
+    "subject": "IF",
+    "title": "Configuração de cores",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-015",
+    "subject": "IF",
+    "title": "Configuração de fontes",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-016",
+    "subject": "IF",
+    "title": "Configuração de impressoras",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-017",
+    "subject": "IF",
+    "title": "Windows Explorer / Explorador de Arquivos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-018",
+    "subject": "IF",
+    "title": "Noções de Internet",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-019",
+    "subject": "IF",
+    "title": "Noções de Intranet",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-020",
+    "subject": "IF",
+    "title": "Ferramentas e aplicativos de Internet",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-021",
+    "subject": "IF",
+    "title": "Navegadores",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-022",
+    "subject": "IF",
+    "title": "Pesquisa e busca na Internet",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-023",
+    "subject": "IF",
+    "title": "Princípios de IA aplicada a softwares",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-024",
+    "subject": "IF",
+    "title": "Princípios de IA aplicada a ferramentas de produtividade",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-025",
+    "subject": "IF",
+    "title": "Assistentes virtuais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-026",
+    "subject": "IF",
+    "title": "Automação de tarefas",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 7,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-027",
+    "subject": "IF",
+    "title": "Word: elaboração e edição de documentos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-028",
+    "subject": "IF",
+    "title": "Excel: elaboração e edição de planilhas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-029",
+    "subject": "IF",
+    "title": "PowerPoint: elaboração e edição de apresentações",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-030",
+    "subject": "IF",
+    "title": "Teams: colaboração e comunicação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-031",
+    "subject": "IF",
+    "title": "Outlook: comunicação e organização",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-032",
+    "subject": "IF",
+    "title": "Formatação de conteúdos no Microsoft 365",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-033",
+    "subject": "IF",
+    "title": "Organização de conteúdos no Microsoft 365",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-034",
+    "subject": "IF",
+    "title": "Colaboração em equipe no Microsoft 365",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-035",
+    "subject": "IF",
+    "title": "Comunicação em equipe no Microsoft 365",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-036",
+    "subject": "IF",
+    "title": "Integração entre aplicativos Microsoft 365",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-037",
+    "subject": "IF",
+    "title": "Recursos inteligentes dos aplicativos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-038",
+    "subject": "IF",
+    "title": "Recursos automáticos dos aplicativos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-039",
+    "subject": "IF",
+    "title": "Proteção de dados",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-040",
+    "subject": "IF",
+    "title": "Vírus e malwares",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-041",
+    "subject": "IF",
+    "title": "Golpes digitais",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-042",
+    "subject": "IF",
+    "title": "Boas práticas de senhas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-043",
+    "subject": "IF",
+    "title": "Proteção de informações sensíveis",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-044",
+    "subject": "IF",
+    "title": "Políticas de backup",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-045",
+    "subject": "IF",
+    "title": "Recuperação de dados",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-046",
+    "subject": "IF",
+    "title": "Ética digital",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-047",
+    "subject": "IF",
+    "title": "Segurança em nuvem",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-048",
+    "subject": "IF",
+    "title": "Ferramentas de inteligência artificial",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-049",
+    "subject": "IF",
+    "title": "Usos de inteligência artificial",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 8,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-050",
+    "subject": "IF",
+    "title": "Tipos de backup",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-051",
+    "subject": "IF",
+    "title": "Planos de contingência",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-052",
+    "subject": "IF",
+    "title": "Meios de armazenamento de backups",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-053",
+    "subject": "IF",
+    "title": "Conceitos de redes de computadores",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-054",
+    "subject": "IF",
+    "title": "Serviços relacionados à Internet",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-055",
+    "subject": "IF",
+    "title": "Tecnologias e protocolos da Internet",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-056",
+    "subject": "IF",
+    "title": "Ferramentas, aplicativos e procedimentos de Internet/Intranet",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-057",
+    "subject": "IF",
+    "title": "Fundamentos de computação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-058",
+    "subject": "IF",
+    "title": "Conceitos de hardware",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-059",
+    "subject": "IF",
+    "title": "Conceitos de software",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-060",
+    "subject": "IF",
+    "title": "Organização dos computadores",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-061",
+    "subject": "IF",
+    "title": "Arquitetura dos computadores",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-062",
+    "subject": "IF",
+    "title": "Componentes de hardware de um computador",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "IF-063",
+    "subject": "IF",
+    "title": "Componentes de software de um computador",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 9,
+    "officialPage": 1,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-001",
+    "subject": "CG",
+    "title": "Fatos políticos do município, do estado, do Brasil e do mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-002",
+    "subject": "CG",
+    "title": "Fatos econômicos do município, do estado, do Brasil e do mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-003",
+    "subject": "CG",
+    "title": "Fatos sociais do município, do estado, do Brasil e do mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-004",
+    "subject": "CG",
+    "title": "Acontecimentos dos últimos 5 anos divulgados na mídia",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-005",
+    "subject": "CG",
+    "title": "Movimentos artísticos locais, estaduais, nacionais e mundiais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-006",
+    "subject": "CG",
+    "title": "Movimentos culturais locais, estaduais, nacionais e mundiais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-007",
+    "subject": "CG",
+    "title": "Movimentos sociais locais, estaduais, nacionais e mundiais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-008",
+    "subject": "CG",
+    "title": "Aspectos geográficos do município, estado, Brasil e mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-009",
+    "subject": "CG",
+    "title": "Aspectos históricos do município, estado, Brasil e mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-010",
+    "subject": "CG",
+    "title": "Aspectos físicos do município, estado, Brasil e mundo",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-011",
+    "subject": "CG",
+    "title": "Aspectos econômicos do município, estado, Brasil e mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-012",
+    "subject": "CG",
+    "title": "Aspectos sociais do município, estado, Brasil e mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-013",
+    "subject": "CG",
+    "title": "Aspectos políticos do município, estado, Brasil e mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-014",
+    "subject": "CG",
+    "title": "Aspectos estatísticos do município, estado, Brasil e mundo",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-015",
+    "subject": "CG",
+    "title": "Noções de cidadania",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-016",
+    "subject": "CG",
+    "title": "Símbolos nacionais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-017",
+    "subject": "CG",
+    "title": "Símbolos estaduais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-018",
+    "subject": "CG",
+    "title": "Símbolos municipais",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 10,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-019",
+    "subject": "CG",
+    "title": "Atualidades: economia",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-020",
+    "subject": "CG",
+    "title": "Atualidades: ecologia",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-021",
+    "subject": "CG",
+    "title": "Atualidades: história",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-022",
+    "subject": "CG",
+    "title": "Atualidades: política",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-023",
+    "subject": "CG",
+    "title": "Atualidades: meio ambiente",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-024",
+    "subject": "CG",
+    "title": "Atualidades: justiça",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-025",
+    "subject": "CG",
+    "title": "Atualidades: segurança pública",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-026",
+    "subject": "CG",
+    "title": "Atualidades: saúde",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-027",
+    "subject": "CG",
+    "title": "Atualidades: cultura",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-028",
+    "subject": "CG",
+    "title": "Atualidades: educação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-029",
+    "subject": "CG",
+    "title": "Atualidades: religião",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-030",
+    "subject": "CG",
+    "title": "Atualidades: qualidade de vida",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-031",
+    "subject": "CG",
+    "title": "Atualidades: esportes",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-032",
+    "subject": "CG",
+    "title": "Atualidades: turismo",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-033",
+    "subject": "CG",
+    "title": "Atualidades: georreferenciamento",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-034",
+    "subject": "CG",
+    "title": "Atualidades: inovações tecnológicas",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-035",
+    "subject": "CG",
+    "title": "Atualidades: inovações científicas",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-036",
+    "subject": "CG",
+    "title": "Realidade econômica do município, estado, Brasil e mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-037",
+    "subject": "CG",
+    "title": "Realidade cultural do município, estado, Brasil e mundo",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-038",
+    "subject": "CG",
+    "title": "Realidade histórica do município, estado, Brasil e mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-039",
+    "subject": "CG",
+    "title": "Realidade geográfica do município, estado, Brasil e mundo",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-040",
+    "subject": "CG",
+    "title": "Realidade socioambiental do município, estado, Brasil e mundo",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CG-041",
+    "subject": "CG",
+    "title": "Notícias em geral: site da Prefeitura de São João del-Rei",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 11,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-001",
+    "subject": "LG",
+    "title": "Estatuto dos Servidores Públicos de São João del-Rei - texto legal",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-002",
+    "subject": "LG",
+    "title": "Lei Orgânica de São João del-Rei - texto legal",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-003",
+    "subject": "LG",
+    "title": "Estatuto da Pessoa com Deficiência - Lei Brasileira de Inclusão",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-004",
+    "subject": "LG",
+    "title": "Conceitos, direitos e garantias previstos na LBI [roteiro de leitura]",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-005",
+    "subject": "LG",
+    "title": "Título I - Dos Princípios Fundamentais",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-006",
+    "subject": "LG",
+    "title": "Art. 5º - direitos e deveres individuais e coletivos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-007",
+    "subject": "LG",
+    "title": "Art. 6º - direitos sociais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-008",
+    "subject": "LG",
+    "title": "Art. 7º - direitos dos trabalhadores",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-009",
+    "subject": "LG",
+    "title": "Art. 8º - associação profissional e sindical",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-010",
+    "subject": "LG",
+    "title": "Art. 9º - direito de greve",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-011",
+    "subject": "LG",
+    "title": "Art. 10 - participação de trabalhadores e empregadores",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-012",
+    "subject": "LG",
+    "title": "Art. 11 - representação de empregados",
+    "priority": "P3",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-013",
+    "subject": "LG",
+    "title": "Art. 12 - nacionalidade",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-014",
+    "subject": "LG",
+    "title": "Art. 13 - língua e símbolos oficiais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-015",
+    "subject": "LG",
+    "title": "Art. 29 - organização dos municípios",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-016",
+    "subject": "LG",
+    "title": "Art. 29-A - despesas do Poder Legislativo municipal",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-017",
+    "subject": "LG",
+    "title": "Art. 30 - competências dos municípios",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-018",
+    "subject": "LG",
+    "title": "Art. 31 - fiscalização do município",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-019",
+    "subject": "LG",
+    "title": "Art. 37 - regras e princípios da Administração Pública",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-020",
+    "subject": "LG",
+    "title": "Art. 38 - servidor público e mandato eletivo",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-021",
+    "subject": "LG",
+    "title": "Art. 39 - regime jurídico e servidores",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 12,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-022",
+    "subject": "LG",
+    "title": "Lei Federal nº 14.133/2021 - Lei de Licitações e Contratos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 13,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-023",
+    "subject": "LG",
+    "title": "Licitações, contratações e contratos na Lei nº 14.133/2021 [roteiro de leitura]",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 13,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-024",
+    "subject": "LG",
+    "title": "Lei Federal nº 12.527/2011 - Lei de Acesso à Informação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 13,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "LG-025",
+    "subject": "LG",
+    "title": "Decreto Estadual MG nº 45.969/2012 - acesso à informação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 13,
+    "officialPage": 2,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-001",
+    "subject": "CE",
+    "title": "Contabilidade Pública: conceito",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-002",
+    "subject": "CE",
+    "title": "Contabilidade Pública: objeto",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-003",
+    "subject": "CE",
+    "title": "Contabilidade Pública: finalidade",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-004",
+    "subject": "CE",
+    "title": "Contabilidade Pública: campo de aplicação",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-005",
+    "subject": "CE",
+    "title": "Estágios da receita pública",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-006",
+    "subject": "CE",
+    "title": "Estágios da despesa pública",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-007",
+    "subject": "CE",
+    "title": "NBC TSP - Estrutura Conceitual",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-008",
+    "subject": "CE",
+    "title": "Tributos de competência do Município",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-009",
+    "subject": "CE",
+    "title": "Atividade financeira estatal",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-010",
+    "subject": "CE",
+    "title": "Receita municipal",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-011",
+    "subject": "CE",
+    "title": "Rendas municipais",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-012",
+    "subject": "CE",
+    "title": "Preços públicos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-013",
+    "subject": "CE",
+    "title": "Estrutura tributária municipal: impostos",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-014",
+    "subject": "CE",
+    "title": "Estrutura tributária municipal: taxas",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-015",
+    "subject": "CE",
+    "title": "Estrutura tributária municipal: contribuição de melhoria",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-016",
+    "subject": "CE",
+    "title": "Constituição da República Federativa do Brasil - parte tributária [roteiro]",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-017",
+    "subject": "CE",
+    "title": "Código Tributário Nacional - conceitos, espécies e competência [roteiro]",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-018",
+    "subject": "CE",
+    "title": "CTN - obrigação tributária, fato gerador e sujeitos [roteiro]",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-019",
+    "subject": "CE",
+    "title": "CTN - crédito tributário e lançamento [roteiro]",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-020",
+    "subject": "CE",
+    "title": "CTN - suspensão, extinção e exclusão do crédito [roteiro]",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-021",
+    "subject": "CE",
+    "title": "CTN - responsabilidade e administração tributária [roteiro]",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 14,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-022",
+    "subject": "CE",
+    "title": "Código Tributário do Município de São João del-Rei",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-023",
+    "subject": "CE",
+    "title": "ISSQN - Imposto Sobre Serviços de Qualquer Natureza",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-024",
+    "subject": "CE",
+    "title": "IPTU - Imposto Predial e Territorial Urbano",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-025",
+    "subject": "CE",
+    "title": "ITBI - Imposto sobre Transmissão de Bens Imóveis",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-026",
+    "subject": "CE",
+    "title": "Taxas municipais",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-027",
+    "subject": "CE",
+    "title": "Contribuição para Custeio de Iluminação Pública",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-028",
+    "subject": "CE",
+    "title": "Imposto: conceitos e características",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-029",
+    "subject": "CE",
+    "title": "Imposto sobre Propriedade Territorial e Urbano [redação do anexo]",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-030",
+    "subject": "CE",
+    "title": "Fato gerador",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-031",
+    "subject": "CE",
+    "title": "Cadastro imobiliário",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-032",
+    "subject": "CE",
+    "title": "Imunidade tributária",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-033",
+    "subject": "CE",
+    "title": "Isenção tributária",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-034",
+    "subject": "CE",
+    "title": "Lei Orgânica do Município",
+    "priority": "P1",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-035",
+    "subject": "CE",
+    "title": "Ética profissional",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-036",
+    "subject": "CE",
+    "title": "Noções básicas de licitações administrativas",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  },
+  {
+    "id": "CE-037",
+    "subject": "CE",
+    "title": "Noções básicas de contratos administrativos",
+    "priority": "P2",
+    "prioritySource": "sugestão pedagógica do verticalizado",
+    "verticalizedPage": 15,
+    "officialPage": 3,
+    "status": "planejado"
+  }
+]

@@ -1,0 +1,2848 @@
+[
+  {
+    "id": "S01",
+    "date": "2026-10-20",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Leitura, inferência e sentido contextual",
+    "objective": "Distinguir informação expressa, inferência autorizada e extrapolação.",
+    "modulePlanIds": [
+      "PT01"
+    ],
+    "topicIds": [
+      "PT-001",
+      "PT-002",
+      "PT-003",
+      "PT-004",
+      "PT-005"
+    ],
+    "minutes": 150,
+    "questionTarget": 8,
+    "contentStatus": "disponivel_com_revisao_interna",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S02",
+    "date": "2026-10-21",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Constituição: fundamentos e art. 5º",
+    "objective": "Distinguir fundamentos, objetivos e direitos fundamentais em situações práticas.",
+    "modulePlanIds": [
+      "LG01"
+    ],
+    "topicIds": [
+      "LG-005",
+      "LG-006"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S01",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S03",
+    "date": "2026-10-22",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Proposições e conectivos + Hardware, software e arquitetura",
+    "objective": "Montar tabelas-verdade e negar proposições compostas. Relacionar componentes e funções sem confundir memória com armazenamento.",
+    "modulePlanIds": [
+      "RL01",
+      "IF01"
+    ],
+    "topicIds": [
+      "RL-001",
+      "RL-002",
+      "RL-003",
+      "RL-004",
+      "IF-057",
+      "IF-058",
+      "IF-059",
+      "IF-060",
+      "IF-061",
+      "IF-062",
+      "IF-063"
+    ],
+    "minutes": 170,
+    "questionTarget": 14,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S02",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 90,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S04",
+    "date": "2026-10-23",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Tributos e Constituição: fundamentos",
+    "objective": "Distinguir espécies, competências e limitações constitucionais.",
+    "modulePlanIds": [
+      "CE01"
+    ],
+    "topicIds": [
+      "CE-008",
+      "CE-013",
+      "CE-014",
+      "CE-015",
+      "CE-016",
+      "CE-017",
+      "CE-028",
+      "CE-032"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S03",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S05",
+    "date": "2026-10-24",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Direitos sociais e nacionalidade",
+    "objective": "Relacionar os arts. 6º a 13 aos sujeitos e hipóteses correspondentes.",
+    "modulePlanIds": [
+      "LG02"
+    ],
+    "topicIds": [
+      "LG-007",
+      "LG-008",
+      "LG-009",
+      "LG-010",
+      "LG-011",
+      "LG-012",
+      "LG-013",
+      "LG-014"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S04",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S06",
+    "date": "2026-10-26",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Coesão, coerência e recursos expressivos",
+    "objective": "Reconstruir referências e relações de sentido sem confundir variedade linguística com erro.",
+    "modulePlanIds": [
+      "PT02"
+    ],
+    "topicIds": [
+      "PT-006",
+      "PT-007",
+      "PT-008",
+      "PT-009",
+      "PT-010",
+      "PT-011",
+      "PT-036"
+    ],
+    "minutes": 150,
+    "questionTarget": 8,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S05",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S07",
+    "date": "2026-10-27",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Windows 10 e arquivos + São João del-Rei e Minas: território e história",
+    "objective": "Executar operações de arquivos e prever seus efeitos. Localizar acontecimentos e símbolos em seu contexto histórico e geográfico.",
+    "modulePlanIds": [
+      "IF02",
+      "CG01"
+    ],
+    "topicIds": [
+      "IF-001",
+      "IF-002",
+      "IF-003",
+      "IF-004",
+      "IF-005",
+      "IF-006",
+      "IF-007",
+      "IF-008",
+      "IF-009",
+      "IF-010",
+      "IF-011",
+      "IF-012",
+      "IF-013",
+      "IF-014",
+      "IF-015",
+      "IF-016",
+      "IF-017",
+      "CG-008",
+      "CG-009",
+      "CG-010",
+      "CG-018",
+      "CG-021",
+      "CG-033",
+      "CG-038",
+      "CG-039"
+    ],
+    "minutes": 170,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S01",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S06",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 90,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S08",
+    "date": "2026-10-28",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Municípios, Administração e Lei Orgânica",
+    "objective": "Separar competências municipais, fiscalização e regras dos servidores.",
+    "modulePlanIds": [
+      "LG03"
+    ],
+    "topicIds": [
+      "LG-002",
+      "LG-015",
+      "LG-016",
+      "LG-017",
+      "LG-018",
+      "LG-019",
+      "LG-020",
+      "LG-021"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S02",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S07",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S09",
+    "date": "2026-10-29",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "CTN: obrigação, fato gerador e responsabilidade",
+    "objective": "Identificar fato gerador, sujeitos e responsáveis em situações concretas.",
+    "modulePlanIds": [
+      "CE02"
+    ],
+    "topicIds": [
+      "CE-017",
+      "CE-018",
+      "CE-021",
+      "CE-030"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S03",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S08",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S10",
+    "date": "2026-10-30",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Argumentação e verdades e mentiras + Internet, intranet e redes",
+    "objective": "Testar validade sem confundir verdade das premissas com forma do argumento. Distinguir rede, navegador e serviço, relacionando protocolos a funções.",
+    "modulePlanIds": [
+      "RL02",
+      "IF03"
+    ],
+    "topicIds": [
+      "RL-005",
+      "RL-006",
+      "RL-007",
+      "RL-035",
+      "RL-041",
+      "IF-018",
+      "IF-019",
+      "IF-020",
+      "IF-021",
+      "IF-022",
+      "IF-053",
+      "IF-054",
+      "IF-055",
+      "IF-056"
+    ],
+    "minutes": 170,
+    "questionTarget": 14,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S04",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S09",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 90,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S11",
+    "date": "2026-10-31",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Estatuto municipal: ingresso e vida funcional",
+    "objective": "Diferenciar provimento, posse, exercício e evolução funcional conforme o texto municipal.",
+    "modulePlanIds": [
+      "LG04"
+    ],
+    "topicIds": [
+      "LG-001"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S05",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S10",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S12",
+    "date": "2026-11-02",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "CTN: lançamento e crédito",
+    "objective": "Comparar constituição, suspensão, extinção e exclusão do crédito.",
+    "modulePlanIds": [
+      "CE03"
+    ],
+    "topicIds": [
+      "CE-019",
+      "CE-020",
+      "CE-032",
+      "CE-033"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S06",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S11",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S13",
+    "date": "2026-11-03",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Classes de palavras e formação",
+    "objective": "Identificar classes pela função e explicar flexões e processos de formação.",
+    "modulePlanIds": [
+      "PT03"
+    ],
+    "topicIds": [
+      "PT-012",
+      "PT-013",
+      "PT-014",
+      "PT-015",
+      "PT-016",
+      "PT-017"
+    ],
+    "minutes": 150,
+    "questionTarget": 8,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S07",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S12",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S14",
+    "date": "2026-11-04",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Word, PowerPoint, Teams e Outlook + Economia, política e indicadores",
+    "objective": "Escolher ferramentas para produzir, organizar e compartilhar documentos. Ler indicadores com data, unidade e abrangência e contextualizar fatos dos cinco anos.",
+    "modulePlanIds": [
+      "IF04",
+      "CG02"
+    ],
+    "topicIds": [
+      "IF-027",
+      "IF-029",
+      "IF-030",
+      "IF-031",
+      "IF-032",
+      "IF-033",
+      "IF-034",
+      "IF-035",
+      "IF-036",
+      "CG-001",
+      "CG-002",
+      "CG-003",
+      "CG-004",
+      "CG-011",
+      "CG-012",
+      "CG-013",
+      "CG-014",
+      "CG-019",
+      "CG-022",
+      "CG-036"
+    ],
+    "minutes": 170,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S08",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S13",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 90,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S15",
+    "date": "2026-11-05",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "IPTU e cadastro imobiliário municipal",
+    "objective": "Aplicar critérios nacionais e regras locais verificados ao cadastro e ao IPTU.",
+    "modulePlanIds": [
+      "CE04"
+    ],
+    "topicIds": [
+      "CE-022",
+      "CE-024",
+      "CE-029",
+      "CE-031"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S09",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S14",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S16",
+    "date": "2026-11-06",
+    "phase": "base",
+    "kind": "estudo",
+    "title": "Estatuto municipal: direitos, deveres e disciplina",
+    "objective": "Resolver situações de direitos, proibições e responsabilidade com base municipal.",
+    "modulePlanIds": [
+      "LG05"
+    ],
+    "topicIds": [
+      "LG-001"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S10",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S15",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S17",
+    "date": "2026-11-07",
+    "phase": "consolidacao",
+    "kind": "simulado",
+    "title": "Simulado completo 01",
+    "objective": "Treinar 30 questões, cinco por disciplina, pesos 4/3/3/3/3/4 e 180 minutos; resultado diagnóstico, sem promessa de classificação.",
+    "modulePlanIds": [],
+    "topicIds": [],
+    "minutes": 180,
+    "questionTarget": 30,
+    "contentStatus": "a_produzir",
+    "completionRule": "Finalizar simulado no prazo.",
+    "reviewFrom": [],
+    "specialCode": "SIM01",
+    "timeBudget": {
+      "simulado": 180
+    }
+  },
+  {
+    "id": "S18",
+    "date": "2026-11-09",
+    "phase": "consolidacao",
+    "kind": "correcao",
+    "title": "Correção do simulado 01",
+    "objective": "Corrigir todas as erradas e duvidosas; registrar causa do erro e revisar o fundamento. Simulado 1 é diagnóstico e pode incluir temas ainda não estudados.",
+    "modulePlanIds": [],
+    "topicIds": [],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S11",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S12",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S16",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": "COR01",
+    "timeBudget": {
+      "correcao": 100,
+      "revisao": 40,
+      "registro": 10
+    }
+  },
+  {
+    "id": "S19",
+    "date": "2026-11-10",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Verbos, oração e período",
+    "objective": "Analisar sujeito, complementos e relações entre orações para interpretar o período.",
+    "modulePlanIds": [
+      "PT04"
+    ],
+    "topicIds": [
+      "PT-018",
+      "PT-019",
+      "PT-020",
+      "PT-021",
+      "PT-022",
+      "PT-029",
+      "PT-030",
+      "PT-031",
+      "PT-032"
+    ],
+    "minutes": 150,
+    "questionTarget": 8,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S01",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S13",
+        "intervalDays": 7
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S20",
+    "date": "2026-11-11",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "ISSQN municipal",
+    "objective": "Resolver hipóteses de incidência, local e responsabilidade com fonte normativa.",
+    "modulePlanIds": [
+      "CE05"
+    ],
+    "topicIds": [
+      "CE-022",
+      "CE-023"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S02",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S14",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S19",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S21",
+    "date": "2026-11-12",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Conjuntos e operações + Excel e automação no Microsoft 365",
+    "objective": "Representar conjuntos e calcular uniões sem dupla contagem. Interpretar fórmulas e referências sem depender de decorar a posição de botões.",
+    "modulePlanIds": [
+      "RL03",
+      "IF05"
+    ],
+    "topicIds": [
+      "RL-008",
+      "RL-009",
+      "RL-010",
+      "RL-011",
+      "RL-012",
+      "RL-013",
+      "RL-014",
+      "RL-015",
+      "RL-016",
+      "RL-017",
+      "RL-018",
+      "RL-019",
+      "RL-020",
+      "RL-021",
+      "IF-028",
+      "IF-032",
+      "IF-033",
+      "IF-037",
+      "IF-038"
+    ],
+    "minutes": 170,
+    "questionTarget": 14,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S03",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S15",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S20",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 90,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S22",
+    "date": "2026-11-13",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Lei Brasileira de Inclusão",
+    "objective": "Reconhecer barreiras, acessibilidade e direitos sem restringir a lei a definições.",
+    "modulePlanIds": [
+      "LG06"
+    ],
+    "topicIds": [
+      "LG-003",
+      "LG-004"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S04",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S16",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S21",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S23",
+    "date": "2026-11-14",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "ITBI, taxas e contribuições municipais",
+    "objective": "Distinguir bases de incidência e limites das espécies locais.",
+    "modulePlanIds": [
+      "CE06"
+    ],
+    "topicIds": [
+      "CE-014",
+      "CE-015",
+      "CE-022",
+      "CE-025",
+      "CE-026",
+      "CE-027"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S05",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S22",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S24",
+    "date": "2026-11-16",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Concordância, regência e crase",
+    "objective": "Aplicar relações sintáticas em reescritas preservando o sentido.",
+    "modulePlanIds": [
+      "PT05"
+    ],
+    "topicIds": [
+      "PT-023",
+      "PT-024",
+      "PT-025",
+      "PT-026",
+      "PT-027",
+      "PT-028"
+    ],
+    "minutes": 150,
+    "questionTarget": 8,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S06",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S23",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S25",
+    "date": "2026-11-17",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Licitações e contratos + Cidadania, cultura e patrimônio",
+    "objective": "Percorrer planejamento, seleção, contratação e execução e distinguir hipóteses. Relacionar movimentos sociais e culturais a contextos e reconhecer símbolos.",
+    "modulePlanIds": [
+      "LG07",
+      "CG03"
+    ],
+    "topicIds": [
+      "LG-022",
+      "LG-023",
+      "CG-005",
+      "CG-006",
+      "CG-007",
+      "CG-015",
+      "CG-016",
+      "CG-017",
+      "CG-027",
+      "CG-029",
+      "CG-031",
+      "CG-032",
+      "CG-037"
+    ],
+    "minutes": 170,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S07",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S19",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S24",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 90,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S26",
+    "date": "2026-11-18",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Finanças municipais, receita e despesa",
+    "objective": "Diferenciar receita tributária, preço público e estágios orçamentários.",
+    "modulePlanIds": [
+      "CE07"
+    ],
+    "topicIds": [
+      "CE-005",
+      "CE-006",
+      "CE-009",
+      "CE-010",
+      "CE-011",
+      "CE-012"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S08",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S20",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S25",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S27",
+    "date": "2026-11-19",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Operações, decimais e divisibilidade",
+    "objective": "Resolver cálculos e escolher entre MDC e MMC em problemas.",
+    "modulePlanIds": [
+      "RL04"
+    ],
+    "topicIds": [
+      "RL-022",
+      "RL-023",
+      "RL-024",
+      "RL-025",
+      "RL-026",
+      "RL-027",
+      "RL-028",
+      "RL-029",
+      "RL-030",
+      "RL-031",
+      "RL-032",
+      "RL-033",
+      "RL-034"
+    ],
+    "minutes": 150,
+    "questionTarget": 8,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S09",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S21",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S26",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S28",
+    "date": "2026-11-20",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Acesso à informação",
+    "objective": "Distinguir transparência ativa e passiva e aplicar o fluxo de acesso e recursos.",
+    "modulePlanIds": [
+      "LG08"
+    ],
+    "topicIds": [
+      "LG-024",
+      "LG-025"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S10",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S22",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S27",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S29",
+    "date": "2026-11-21",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Contabilidade Pública e NBC TSP",
+    "objective": "Relacionar patrimônio, finalidade e usuários da informação contábil pública.",
+    "modulePlanIds": [
+      "CE08"
+    ],
+    "topicIds": [
+      "CE-001",
+      "CE-002",
+      "CE-003",
+      "CE-004",
+      "CE-005",
+      "CE-006",
+      "CE-007"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S11",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S23",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S28",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S30",
+    "date": "2026-11-23",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Segurança, backup, nuvem e IA + Ambiente, saúde, educação e qualidade de vida",
+    "objective": "Reconhecer incidentes e escolher medidas de prevenção e recuperação. Conectar temas socioambientais a políticas e acontecimentos verificados.",
+    "modulePlanIds": [
+      "IF06",
+      "CG04"
+    ],
+    "topicIds": [
+      "IF-023",
+      "IF-024",
+      "IF-025",
+      "IF-026",
+      "IF-039",
+      "IF-040",
+      "IF-041",
+      "IF-042",
+      "IF-043",
+      "IF-044",
+      "IF-045",
+      "IF-046",
+      "IF-047",
+      "IF-048",
+      "IF-049",
+      "IF-050",
+      "IF-051",
+      "IF-052",
+      "CG-020",
+      "CG-023",
+      "CG-026",
+      "CG-028",
+      "CG-030",
+      "CG-040"
+    ],
+    "minutes": 170,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S12",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S24",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S29",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 90,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S31",
+    "date": "2026-11-24",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Ortografia, acentuação e pontuação",
+    "objective": "Revisar escrita e explicar o efeito da pontuação sobre a estrutura.",
+    "modulePlanIds": [
+      "PT06"
+    ],
+    "topicIds": [
+      "PT-033",
+      "PT-034",
+      "PT-035"
+    ],
+    "minutes": 150,
+    "questionTarget": 8,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S13",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S25",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S30",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S32",
+    "date": "2026-11-25",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Administração tributária, ética e integração",
+    "objective": "Resolver situações de fiscalização articulando ética, CTN e regras municipais.",
+    "modulePlanIds": [
+      "CE09"
+    ],
+    "topicIds": [
+      "CE-021",
+      "CE-022",
+      "CE-034",
+      "CE-035",
+      "CE-036",
+      "CE-037"
+    ],
+    "minutes": 150,
+    "questionTarget": 6,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S14",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S26",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S31",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 70,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S33",
+    "date": "2026-11-26",
+    "phase": "consolidacao",
+    "kind": "estudo",
+    "title": "Sequências, contagem e probabilidade + Justiça, segurança, ciência e notícias locais",
+    "objective": "Justificar padrões e calcular probabilidades em espaços equiprováveis. Diferenciar anúncio, fato ocorrido e resultado confirmado.",
+    "modulePlanIds": [
+      "RL05",
+      "CG05"
+    ],
+    "topicIds": [
+      "RL-036",
+      "RL-037",
+      "RL-038",
+      "RL-039",
+      "RL-040",
+      "CG-024",
+      "CG-025",
+      "CG-034",
+      "CG-035",
+      "CG-041"
+    ],
+    "minutes": 170,
+    "questionTarget": 14,
+    "contentStatus": "a_produzir",
+    "completionRule": "Ler teoria; responder o bloco; revisar erros e dúvidas; confirmar conclusão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S15",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S27",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S32",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": null,
+    "timeBudget": {
+      "revisao": 20,
+      "teoria": 90,
+      "questoes": 30,
+      "correcao": 25,
+      "registro": 5
+    }
+  },
+  {
+    "id": "S34",
+    "date": "2026-11-27",
+    "phase": "consolidacao",
+    "kind": "revisao",
+    "title": "Fechamento da abrangência normativa",
+    "objective": "Conferir mapa integral da CF, CTN, CTM, Lei Orgânica, Estatuto, LBI e Lei 14.133; tratar disposições fora dos roteiros iniciais. A cobertura por capítulos/artigos depende da consolidação oficial e ainda não está certificada.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "PT-001",
+      "PT-002",
+      "PT-003",
+      "PT-004",
+      "PT-005",
+      "PT-006",
+      "PT-007",
+      "PT-008",
+      "PT-009",
+      "PT-010",
+      "PT-011",
+      "PT-012",
+      "PT-013",
+      "PT-014",
+      "PT-015",
+      "PT-016",
+      "PT-017",
+      "PT-018",
+      "PT-019",
+      "PT-020",
+      "PT-021",
+      "PT-022",
+      "PT-023",
+      "PT-024",
+      "PT-025",
+      "PT-026",
+      "PT-027",
+      "PT-028",
+      "PT-029",
+      "PT-030",
+      "PT-031",
+      "PT-032",
+      "PT-033",
+      "PT-034",
+      "PT-035",
+      "PT-036",
+      "RL-001",
+      "RL-002",
+      "RL-003",
+      "RL-004",
+      "RL-005",
+      "RL-006",
+      "RL-007",
+      "RL-008",
+      "RL-009",
+      "RL-010",
+      "RL-011",
+      "RL-012",
+      "RL-013",
+      "RL-014",
+      "RL-015",
+      "RL-016",
+      "RL-017",
+      "RL-018",
+      "RL-019",
+      "RL-020",
+      "RL-021",
+      "RL-022",
+      "RL-023",
+      "RL-024",
+      "RL-025",
+      "RL-026",
+      "RL-027",
+      "RL-028",
+      "RL-029",
+      "RL-030",
+      "RL-031",
+      "RL-032",
+      "RL-033",
+      "RL-034",
+      "RL-035",
+      "RL-036",
+      "RL-037",
+      "RL-038",
+      "RL-039",
+      "RL-040",
+      "RL-041",
+      "IF-001",
+      "IF-002",
+      "IF-003",
+      "IF-004",
+      "IF-005",
+      "IF-006",
+      "IF-007",
+      "IF-008",
+      "IF-009",
+      "IF-010",
+      "IF-011",
+      "IF-012",
+      "IF-013",
+      "IF-014",
+      "IF-015",
+      "IF-016",
+      "IF-017",
+      "IF-018",
+      "IF-019",
+      "IF-020",
+      "IF-021",
+      "IF-022",
+      "IF-023",
+      "IF-024",
+      "IF-025",
+      "IF-026",
+      "IF-027",
+      "IF-028",
+      "IF-029",
+      "IF-030",
+      "IF-031",
+      "IF-032",
+      "IF-033",
+      "IF-034",
+      "IF-035",
+      "IF-036",
+      "IF-037",
+      "IF-038",
+      "IF-039",
+      "IF-040",
+      "IF-041",
+      "IF-042",
+      "IF-043",
+      "IF-044",
+      "IF-045",
+      "IF-046",
+      "IF-047",
+      "IF-048",
+      "IF-049",
+      "IF-050",
+      "IF-051",
+      "IF-052",
+      "IF-053",
+      "IF-054",
+      "IF-055",
+      "IF-056",
+      "IF-057",
+      "IF-058",
+      "IF-059",
+      "IF-060",
+      "IF-061",
+      "IF-062",
+      "IF-063",
+      "CG-001",
+      "CG-002",
+      "CG-003",
+      "CG-004",
+      "CG-005",
+      "CG-006",
+      "CG-007",
+      "CG-008",
+      "CG-009",
+      "CG-010",
+      "CG-011",
+      "CG-012",
+      "CG-013",
+      "CG-014",
+      "CG-015",
+      "CG-016",
+      "CG-017",
+      "CG-018",
+      "CG-019",
+      "CG-020",
+      "CG-021",
+      "CG-022",
+      "CG-023",
+      "CG-024",
+      "CG-025",
+      "CG-026",
+      "CG-027",
+      "CG-028",
+      "CG-029",
+      "CG-030",
+      "CG-031",
+      "CG-032",
+      "CG-033",
+      "CG-034",
+      "CG-035",
+      "CG-036",
+      "CG-037",
+      "CG-038",
+      "CG-039",
+      "CG-040",
+      "CG-041",
+      "LG-001",
+      "LG-002",
+      "LG-003",
+      "LG-004",
+      "LG-005",
+      "LG-006",
+      "LG-007",
+      "LG-008",
+      "LG-009",
+      "LG-010",
+      "LG-011",
+      "LG-012",
+      "LG-013",
+      "LG-014",
+      "LG-015",
+      "LG-016",
+      "LG-017",
+      "LG-018",
+      "LG-019",
+      "LG-020",
+      "LG-021",
+      "LG-022",
+      "LG-023",
+      "LG-024",
+      "LG-025",
+      "CE-001",
+      "CE-002",
+      "CE-003",
+      "CE-004",
+      "CE-005",
+      "CE-006",
+      "CE-007",
+      "CE-008",
+      "CE-009",
+      "CE-010",
+      "CE-011",
+      "CE-012",
+      "CE-013",
+      "CE-014",
+      "CE-015",
+      "CE-016",
+      "CE-017",
+      "CE-018",
+      "CE-019",
+      "CE-020",
+      "CE-021",
+      "CE-022",
+      "CE-023",
+      "CE-024",
+      "CE-025",
+      "CE-026",
+      "CE-027",
+      "CE-028",
+      "CE-029",
+      "CE-030",
+      "CE-031",
+      "CE-032",
+      "CE-033",
+      "CE-034",
+      "CE-035",
+      "CE-036",
+      "CE-037"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S16",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S28",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S33",
+        "intervalDays": 1
+      }
+    ],
+    "specialCode": "ESCOPO",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S35",
+    "date": "2026-11-28",
+    "phase": "reta_final",
+    "kind": "simulado",
+    "title": "Simulado completo 02",
+    "objective": "Treinar 30 questões, cinco por disciplina, pesos 4/3/3/3/3/4 e 180 minutos; resultado diagnóstico, sem promessa de classificação.",
+    "modulePlanIds": [],
+    "topicIds": [],
+    "minutes": 180,
+    "questionTarget": 30,
+    "contentStatus": "a_produzir",
+    "completionRule": "Finalizar simulado no prazo.",
+    "reviewFrom": [],
+    "specialCode": "SIM02",
+    "timeBudget": {
+      "simulado": 180
+    }
+  },
+  {
+    "id": "S36",
+    "date": "2026-11-30",
+    "phase": "reta_final",
+    "kind": "correcao",
+    "title": "Correção do simulado 02",
+    "objective": "Corrigir todas as erradas e duvidosas; registrar causa do erro e revisar o fundamento. Simulado 1 é diagnóstico e pode incluir temas ainda não estudados.",
+    "modulePlanIds": [],
+    "topicIds": [],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S29",
+        "intervalDays": 7
+      },
+      {
+        "sessionId": "S30",
+        "intervalDays": 7
+      }
+    ],
+    "specialCode": "COR02",
+    "timeBudget": {
+      "correcao": 100,
+      "revisao": 40,
+      "registro": 10
+    }
+  },
+  {
+    "id": "S37",
+    "date": "2026-12-01",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Português: revisão integrada",
+    "objective": "Reescrita, interpretação e sintaxe; justificar acertos e corrigir erros recorrentes.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "PT-001",
+      "PT-002",
+      "PT-003",
+      "PT-004",
+      "PT-005",
+      "PT-006",
+      "PT-007",
+      "PT-008",
+      "PT-009",
+      "PT-010",
+      "PT-011",
+      "PT-012",
+      "PT-013",
+      "PT-014",
+      "PT-015",
+      "PT-016",
+      "PT-017",
+      "PT-018",
+      "PT-019",
+      "PT-020",
+      "PT-021",
+      "PT-022",
+      "PT-023",
+      "PT-024",
+      "PT-025",
+      "PT-026",
+      "PT-027",
+      "PT-028",
+      "PT-029",
+      "PT-030",
+      "PT-031",
+      "PT-032",
+      "PT-033",
+      "PT-034",
+      "PT-035",
+      "PT-036"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S19",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S31",
+        "intervalDays": 7
+      }
+    ],
+    "specialCode": "REV-PT",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S38",
+    "date": "2026-12-02",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Legislação: Constituição e leis federais/estaduais",
+    "objective": "Recuperação ativa dos arts. delimitados; LBI, licitações e acesso à informação; regras e exceções.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "LG-001",
+      "LG-002",
+      "LG-003",
+      "LG-004",
+      "LG-005",
+      "LG-006",
+      "LG-007",
+      "LG-008",
+      "LG-009",
+      "LG-010",
+      "LG-011",
+      "LG-012",
+      "LG-013",
+      "LG-014",
+      "LG-015",
+      "LG-016",
+      "LG-017",
+      "LG-018",
+      "LG-019",
+      "LG-020",
+      "LG-021",
+      "LG-022",
+      "LG-023",
+      "LG-024",
+      "LG-025"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S20",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S32",
+        "intervalDays": 7
+      }
+    ],
+    "specialCode": "REV-LG",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S39",
+    "date": "2026-12-03",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Tributação e contabilidade: casos integrados",
+    "objective": "Resolver casos de lançamento, crédito, impostos municipais e estágios orçamentários.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "CE-001",
+      "CE-002",
+      "CE-003",
+      "CE-004",
+      "CE-005",
+      "CE-006",
+      "CE-007",
+      "CE-008",
+      "CE-009",
+      "CE-010",
+      "CE-011",
+      "CE-012",
+      "CE-013",
+      "CE-014",
+      "CE-015",
+      "CE-016",
+      "CE-017",
+      "CE-018",
+      "CE-019",
+      "CE-020",
+      "CE-021",
+      "CE-022",
+      "CE-023",
+      "CE-024",
+      "CE-025",
+      "CE-026",
+      "CE-027",
+      "CE-028",
+      "CE-029",
+      "CE-030",
+      "CE-031",
+      "CE-032",
+      "CE-033",
+      "CE-034",
+      "CE-035",
+      "CE-036",
+      "CE-037"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S21",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S33",
+        "intervalDays": 7
+      }
+    ],
+    "specialCode": "REV-CE",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S40",
+    "date": "2026-12-04",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Raciocínio lógico: resolução independente",
+    "objective": "Conjuntos, lógica, operações, contagem e probabilidade sem consulta; explicar o caminho.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "RL-001",
+      "RL-002",
+      "RL-003",
+      "RL-004",
+      "RL-005",
+      "RL-006",
+      "RL-007",
+      "RL-008",
+      "RL-009",
+      "RL-010",
+      "RL-011",
+      "RL-012",
+      "RL-013",
+      "RL-014",
+      "RL-015",
+      "RL-016",
+      "RL-017",
+      "RL-018",
+      "RL-019",
+      "RL-020",
+      "RL-021",
+      "RL-022",
+      "RL-023",
+      "RL-024",
+      "RL-025",
+      "RL-026",
+      "RL-027",
+      "RL-028",
+      "RL-029",
+      "RL-030",
+      "RL-031",
+      "RL-032",
+      "RL-033",
+      "RL-034",
+      "RL-035",
+      "RL-036",
+      "RL-037",
+      "RL-038",
+      "RL-039",
+      "RL-040",
+      "RL-041"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S22",
+        "intervalDays": 21
+      }
+    ],
+    "specialCode": "REV-RL",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S41",
+    "date": "2026-12-05",
+    "phase": "reta_final",
+    "kind": "simulado",
+    "title": "Simulado completo 03",
+    "objective": "Treinar 30 questões, cinco por disciplina, pesos 4/3/3/3/3/4 e 180 minutos; resultado diagnóstico, sem promessa de classificação.",
+    "modulePlanIds": [],
+    "topicIds": [],
+    "minutes": 180,
+    "questionTarget": 30,
+    "contentStatus": "a_produzir",
+    "completionRule": "Finalizar simulado no prazo.",
+    "reviewFrom": [],
+    "specialCode": "SIM03",
+    "timeBudget": {
+      "simulado": 180
+    }
+  },
+  {
+    "id": "S42",
+    "date": "2026-12-07",
+    "phase": "reta_final",
+    "kind": "correcao",
+    "title": "Correção do simulado 03",
+    "objective": "Corrigir todas as erradas e duvidosas; registrar causa do erro e revisar o fundamento. Simulado 1 é diagnóstico e pode incluir temas ainda não estudados.",
+    "modulePlanIds": [],
+    "topicIds": [],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S23",
+        "intervalDays": 21
+      },
+      {
+        "sessionId": "S24",
+        "intervalDays": 21
+      }
+    ],
+    "specialCode": "COR03",
+    "timeBudget": {
+      "correcao": 100,
+      "revisao": 40,
+      "registro": 10
+    }
+  },
+  {
+    "id": "S43",
+    "date": "2026-12-08",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Informática: operações e segurança",
+    "objective": "Reconhecer efeitos de comandos, fórmulas, protocolos, backup e uso de IA.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "IF-001",
+      "IF-002",
+      "IF-003",
+      "IF-004",
+      "IF-005",
+      "IF-006",
+      "IF-007",
+      "IF-008",
+      "IF-009",
+      "IF-010",
+      "IF-011",
+      "IF-012",
+      "IF-013",
+      "IF-014",
+      "IF-015",
+      "IF-016",
+      "IF-017",
+      "IF-018",
+      "IF-019",
+      "IF-020",
+      "IF-021",
+      "IF-022",
+      "IF-023",
+      "IF-024",
+      "IF-025",
+      "IF-026",
+      "IF-027",
+      "IF-028",
+      "IF-029",
+      "IF-030",
+      "IF-031",
+      "IF-032",
+      "IF-033",
+      "IF-034",
+      "IF-035",
+      "IF-036",
+      "IF-037",
+      "IF-038",
+      "IF-039",
+      "IF-040",
+      "IF-041",
+      "IF-042",
+      "IF-043",
+      "IF-044",
+      "IF-045",
+      "IF-046",
+      "IF-047",
+      "IF-048",
+      "IF-049",
+      "IF-050",
+      "IF-051",
+      "IF-052",
+      "IF-053",
+      "IF-054",
+      "IF-055",
+      "IF-056",
+      "IF-057",
+      "IF-058",
+      "IF-059",
+      "IF-060",
+      "IF-061",
+      "IF-062",
+      "IF-063"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S25",
+        "intervalDays": 21
+      }
+    ],
+    "specialCode": "REV-IF",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S44",
+    "date": "2026-12-09",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Gerais: linha do tempo e realidade local",
+    "objective": "Revisar fontes e datas; comparar escalas municipal, estadual, nacional e mundial; atualizar apenas fatos já verificáveis.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "CG-001",
+      "CG-002",
+      "CG-003",
+      "CG-004",
+      "CG-005",
+      "CG-006",
+      "CG-007",
+      "CG-008",
+      "CG-009",
+      "CG-010",
+      "CG-011",
+      "CG-012",
+      "CG-013",
+      "CG-014",
+      "CG-015",
+      "CG-016",
+      "CG-017",
+      "CG-018",
+      "CG-019",
+      "CG-020",
+      "CG-021",
+      "CG-022",
+      "CG-023",
+      "CG-024",
+      "CG-025",
+      "CG-026",
+      "CG-027",
+      "CG-028",
+      "CG-029",
+      "CG-030",
+      "CG-031",
+      "CG-032",
+      "CG-033",
+      "CG-034",
+      "CG-035",
+      "CG-036",
+      "CG-037",
+      "CG-038",
+      "CG-039",
+      "CG-040",
+      "CG-041"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S26",
+        "intervalDays": 21
+      }
+    ],
+    "specialCode": "REV-CG",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S45",
+    "date": "2026-12-10",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Legislação municipal: contraste de regras",
+    "objective": "Lei Orgânica, Estatuto e CTM: competências, sujeitos, procedimentos, prazos e benefícios efetivamente conferidos.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "LG-001",
+      "LG-002",
+      "LG-003",
+      "LG-004",
+      "LG-005",
+      "LG-006",
+      "LG-007",
+      "LG-008",
+      "LG-009",
+      "LG-010",
+      "LG-011",
+      "LG-012",
+      "LG-013",
+      "LG-014",
+      "LG-015",
+      "LG-016",
+      "LG-017",
+      "LG-018",
+      "LG-019",
+      "LG-020",
+      "LG-021",
+      "LG-022",
+      "LG-023",
+      "LG-024",
+      "LG-025",
+      "CE-001",
+      "CE-002",
+      "CE-003",
+      "CE-004",
+      "CE-005",
+      "CE-006",
+      "CE-007",
+      "CE-008",
+      "CE-009",
+      "CE-010",
+      "CE-011",
+      "CE-012",
+      "CE-013",
+      "CE-014",
+      "CE-015",
+      "CE-016",
+      "CE-017",
+      "CE-018",
+      "CE-019",
+      "CE-020",
+      "CE-021",
+      "CE-022",
+      "CE-023",
+      "CE-024",
+      "CE-025",
+      "CE-026",
+      "CE-027",
+      "CE-028",
+      "CE-029",
+      "CE-030",
+      "CE-031",
+      "CE-032",
+      "CE-033",
+      "CE-034",
+      "CE-035",
+      "CE-036",
+      "CE-037"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S27",
+        "intervalDays": 21
+      }
+    ],
+    "specialCode": "REV-MUN",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S46",
+    "date": "2026-12-11",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Revisão final por erros e dúvidas",
+    "objective": "Revisar blocos fixos das seis disciplinas e priorizar internamente erros; não deslocar datas nem introduzir conteúdo extenso.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "PT-001",
+      "PT-002",
+      "PT-003",
+      "PT-004",
+      "PT-005",
+      "PT-006",
+      "PT-007",
+      "PT-008",
+      "PT-009",
+      "PT-010",
+      "PT-011",
+      "PT-012",
+      "PT-013",
+      "PT-014",
+      "PT-015",
+      "PT-016",
+      "PT-017",
+      "PT-018",
+      "PT-019",
+      "PT-020",
+      "PT-021",
+      "PT-022",
+      "PT-023",
+      "PT-024",
+      "PT-025",
+      "PT-026",
+      "PT-027",
+      "PT-028",
+      "PT-029",
+      "PT-030",
+      "PT-031",
+      "PT-032",
+      "PT-033",
+      "PT-034",
+      "PT-035",
+      "PT-036",
+      "RL-001",
+      "RL-002",
+      "RL-003",
+      "RL-004",
+      "RL-005",
+      "RL-006",
+      "RL-007",
+      "RL-008",
+      "RL-009",
+      "RL-010",
+      "RL-011",
+      "RL-012",
+      "RL-013",
+      "RL-014",
+      "RL-015",
+      "RL-016",
+      "RL-017",
+      "RL-018",
+      "RL-019",
+      "RL-020",
+      "RL-021",
+      "RL-022",
+      "RL-023",
+      "RL-024",
+      "RL-025",
+      "RL-026",
+      "RL-027",
+      "RL-028",
+      "RL-029",
+      "RL-030",
+      "RL-031",
+      "RL-032",
+      "RL-033",
+      "RL-034",
+      "RL-035",
+      "RL-036",
+      "RL-037",
+      "RL-038",
+      "RL-039",
+      "RL-040",
+      "RL-041",
+      "IF-001",
+      "IF-002",
+      "IF-003",
+      "IF-004",
+      "IF-005",
+      "IF-006",
+      "IF-007",
+      "IF-008",
+      "IF-009",
+      "IF-010",
+      "IF-011",
+      "IF-012",
+      "IF-013",
+      "IF-014",
+      "IF-015",
+      "IF-016",
+      "IF-017",
+      "IF-018",
+      "IF-019",
+      "IF-020",
+      "IF-021",
+      "IF-022",
+      "IF-023",
+      "IF-024",
+      "IF-025",
+      "IF-026",
+      "IF-027",
+      "IF-028",
+      "IF-029",
+      "IF-030",
+      "IF-031",
+      "IF-032",
+      "IF-033",
+      "IF-034",
+      "IF-035",
+      "IF-036",
+      "IF-037",
+      "IF-038",
+      "IF-039",
+      "IF-040",
+      "IF-041",
+      "IF-042",
+      "IF-043",
+      "IF-044",
+      "IF-045",
+      "IF-046",
+      "IF-047",
+      "IF-048",
+      "IF-049",
+      "IF-050",
+      "IF-051",
+      "IF-052",
+      "IF-053",
+      "IF-054",
+      "IF-055",
+      "IF-056",
+      "IF-057",
+      "IF-058",
+      "IF-059",
+      "IF-060",
+      "IF-061",
+      "IF-062",
+      "IF-063",
+      "CG-001",
+      "CG-002",
+      "CG-003",
+      "CG-004",
+      "CG-005",
+      "CG-006",
+      "CG-007",
+      "CG-008",
+      "CG-009",
+      "CG-010",
+      "CG-011",
+      "CG-012",
+      "CG-013",
+      "CG-014",
+      "CG-015",
+      "CG-016",
+      "CG-017",
+      "CG-018",
+      "CG-019",
+      "CG-020",
+      "CG-021",
+      "CG-022",
+      "CG-023",
+      "CG-024",
+      "CG-025",
+      "CG-026",
+      "CG-027",
+      "CG-028",
+      "CG-029",
+      "CG-030",
+      "CG-031",
+      "CG-032",
+      "CG-033",
+      "CG-034",
+      "CG-035",
+      "CG-036",
+      "CG-037",
+      "CG-038",
+      "CG-039",
+      "CG-040",
+      "CG-041",
+      "LG-001",
+      "LG-002",
+      "LG-003",
+      "LG-004",
+      "LG-005",
+      "LG-006",
+      "LG-007",
+      "LG-008",
+      "LG-009",
+      "LG-010",
+      "LG-011",
+      "LG-012",
+      "LG-013",
+      "LG-014",
+      "LG-015",
+      "LG-016",
+      "LG-017",
+      "LG-018",
+      "LG-019",
+      "LG-020",
+      "LG-021",
+      "LG-022",
+      "LG-023",
+      "LG-024",
+      "LG-025",
+      "CE-001",
+      "CE-002",
+      "CE-003",
+      "CE-004",
+      "CE-005",
+      "CE-006",
+      "CE-007",
+      "CE-008",
+      "CE-009",
+      "CE-010",
+      "CE-011",
+      "CE-012",
+      "CE-013",
+      "CE-014",
+      "CE-015",
+      "CE-016",
+      "CE-017",
+      "CE-018",
+      "CE-019",
+      "CE-020",
+      "CE-021",
+      "CE-022",
+      "CE-023",
+      "CE-024",
+      "CE-025",
+      "CE-026",
+      "CE-027",
+      "CE-028",
+      "CE-029",
+      "CE-030",
+      "CE-031",
+      "CE-032",
+      "CE-033",
+      "CE-034",
+      "CE-035",
+      "CE-036",
+      "CE-037"
+    ],
+    "minutes": 150,
+    "questionTarget": 12,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [
+      {
+        "sessionId": "S28",
+        "intervalDays": 21
+      }
+    ],
+    "specialCode": "REV-ERROS",
+    "timeBudget": {
+      "recuperacaoAtiva": 50,
+      "questoes": 40,
+      "correcao": 40,
+      "flashcards": 20
+    }
+  },
+  {
+    "id": "S47",
+    "date": "2026-12-12",
+    "phase": "reta_final",
+    "kind": "revisao",
+    "title": "Véspera leve e preparação prática",
+    "objective": "Recuperar conceitos essenciais; conferir documento, local, trajeto e horário; encerrar sem sobrecarga.",
+    "modulePlanIds": [],
+    "topicIds": [
+      "PT-001",
+      "PT-002",
+      "PT-003",
+      "PT-004",
+      "PT-005",
+      "PT-006",
+      "PT-007",
+      "PT-008",
+      "PT-009",
+      "PT-010",
+      "PT-011",
+      "PT-012",
+      "PT-013",
+      "PT-014",
+      "PT-015",
+      "PT-016",
+      "PT-017",
+      "PT-018",
+      "PT-019",
+      "PT-020",
+      "PT-021",
+      "PT-022",
+      "PT-023",
+      "PT-024",
+      "PT-025",
+      "PT-026",
+      "PT-027",
+      "PT-028",
+      "PT-029",
+      "PT-030",
+      "PT-031",
+      "PT-032",
+      "PT-033",
+      "PT-034",
+      "PT-035",
+      "PT-036",
+      "RL-001",
+      "RL-002",
+      "RL-003",
+      "RL-004",
+      "RL-005",
+      "RL-006",
+      "RL-007",
+      "RL-008",
+      "RL-009",
+      "RL-010",
+      "RL-011",
+      "RL-012",
+      "RL-013",
+      "RL-014",
+      "RL-015",
+      "RL-016",
+      "RL-017",
+      "RL-018",
+      "RL-019",
+      "RL-020",
+      "RL-021",
+      "RL-022",
+      "RL-023",
+      "RL-024",
+      "RL-025",
+      "RL-026",
+      "RL-027",
+      "RL-028",
+      "RL-029",
+      "RL-030",
+      "RL-031",
+      "RL-032",
+      "RL-033",
+      "RL-034",
+      "RL-035",
+      "RL-036",
+      "RL-037",
+      "RL-038",
+      "RL-039",
+      "RL-040",
+      "RL-041",
+      "IF-001",
+      "IF-002",
+      "IF-003",
+      "IF-004",
+      "IF-005",
+      "IF-006",
+      "IF-007",
+      "IF-008",
+      "IF-009",
+      "IF-010",
+      "IF-011",
+      "IF-012",
+      "IF-013",
+      "IF-014",
+      "IF-015",
+      "IF-016",
+      "IF-017",
+      "IF-018",
+      "IF-019",
+      "IF-020",
+      "IF-021",
+      "IF-022",
+      "IF-023",
+      "IF-024",
+      "IF-025",
+      "IF-026",
+      "IF-027",
+      "IF-028",
+      "IF-029",
+      "IF-030",
+      "IF-031",
+      "IF-032",
+      "IF-033",
+      "IF-034",
+      "IF-035",
+      "IF-036",
+      "IF-037",
+      "IF-038",
+      "IF-039",
+      "IF-040",
+      "IF-041",
+      "IF-042",
+      "IF-043",
+      "IF-044",
+      "IF-045",
+      "IF-046",
+      "IF-047",
+      "IF-048",
+      "IF-049",
+      "IF-050",
+      "IF-051",
+      "IF-052",
+      "IF-053",
+      "IF-054",
+      "IF-055",
+      "IF-056",
+      "IF-057",
+      "IF-058",
+      "IF-059",
+      "IF-060",
+      "IF-061",
+      "IF-062",
+      "IF-063",
+      "CG-001",
+      "CG-002",
+      "CG-003",
+      "CG-004",
+      "CG-005",
+      "CG-006",
+      "CG-007",
+      "CG-008",
+      "CG-009",
+      "CG-010",
+      "CG-011",
+      "CG-012",
+      "CG-013",
+      "CG-014",
+      "CG-015",
+      "CG-016",
+      "CG-017",
+      "CG-018",
+      "CG-019",
+      "CG-020",
+      "CG-021",
+      "CG-022",
+      "CG-023",
+      "CG-024",
+      "CG-025",
+      "CG-026",
+      "CG-027",
+      "CG-028",
+      "CG-029",
+      "CG-030",
+      "CG-031",
+      "CG-032",
+      "CG-033",
+      "CG-034",
+      "CG-035",
+      "CG-036",
+      "CG-037",
+      "CG-038",
+      "CG-039",
+      "CG-040",
+      "CG-041",
+      "LG-001",
+      "LG-002",
+      "LG-003",
+      "LG-004",
+      "LG-005",
+      "LG-006",
+      "LG-007",
+      "LG-008",
+      "LG-009",
+      "LG-010",
+      "LG-011",
+      "LG-012",
+      "LG-013",
+      "LG-014",
+      "LG-015",
+      "LG-016",
+      "LG-017",
+      "LG-018",
+      "LG-019",
+      "LG-020",
+      "LG-021",
+      "LG-022",
+      "LG-023",
+      "LG-024",
+      "LG-025",
+      "CE-001",
+      "CE-002",
+      "CE-003",
+      "CE-004",
+      "CE-005",
+      "CE-006",
+      "CE-007",
+      "CE-008",
+      "CE-009",
+      "CE-010",
+      "CE-011",
+      "CE-012",
+      "CE-013",
+      "CE-014",
+      "CE-015",
+      "CE-016",
+      "CE-017",
+      "CE-018",
+      "CE-019",
+      "CE-020",
+      "CE-021",
+      "CE-022",
+      "CE-023",
+      "CE-024",
+      "CE-025",
+      "CE-026",
+      "CE-027",
+      "CE-028",
+      "CE-029",
+      "CE-030",
+      "CE-031",
+      "CE-032",
+      "CE-033",
+      "CE-034",
+      "CE-035",
+      "CE-036",
+      "CE-037"
+    ],
+    "minutes": 60,
+    "questionTarget": 0,
+    "contentStatus": "a_produzir",
+    "completionRule": "Completar roteiro e registrar correção/revisão.",
+    "reviewFrom": [],
+    "specialCode": "VESPERA",
+    "timeBudget": {
+      "recuperacaoLeve": 30,
+      "organizacao": 30
+    }
+  }
+]

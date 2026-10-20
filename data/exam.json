@@ -1,0 +1,13 @@
+{
+  "name": "Miriam Estudos — Agente Fiscal de Tributos | IBGP 2026",
+  "roleCode": 325,
+  "examDate": "2026-12-13T14:45:00-03:00",
+  "examEnd": "2026-12-13T17:45:00-03:00",
+  "gateCloses": "14:30",
+  "timezone": "America/Sao_Paulo",
+  "durationMinutes": 180,
+  "questions": 30,
+  "maxPoints": 100,
+  "minimumPoints": 50,
+  "officialSources": "Edital 02/2026 e Retificação 01 anexados; atualização posterior não certificada"
+}
